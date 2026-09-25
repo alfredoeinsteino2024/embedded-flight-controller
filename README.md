@@ -44,4 +44,8 @@ The fundamental feedback loop is:
         |    Sensor   |
         +-------------+
               |
+<<<<<<< HEAD
               +---------------------> Feedback
+=======
+              +---------------------> Feedback
+>>>>>>> 0b9c8b5 (Initial commit - Embedded Flight Controller)

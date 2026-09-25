@@ -1,0 +1,2 @@
+float getAngle();
+void updateSimulation();
